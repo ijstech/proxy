@@ -1,0 +1,8 @@
+{
+    "name":"@ijstech/proxy",
+    "description": "Proxy Plugin for IJS Secure Node",
+    "version": "0.1.0",
+    "dependencies": {
+        "http-proxy": "1.18.1"
+    }
+}
